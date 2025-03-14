@@ -35,11 +35,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build HTML
         uses: ammaraskar/sphinx-action@master
+        with:
+          docs-folder: "source/"
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: html-docs
-          path: docs/build/html/
+          path: build/html/
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
