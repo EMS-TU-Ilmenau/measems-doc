@@ -26,5 +26,5 @@ jobs:
     - id: deployment
       uses: sphinx-notes/pages@v3
       with:
-        documentation_path: .
+        documentation_path: source
 
