@@ -1,16 +1,6 @@
 Getting Started
 ===============
 
-Hello and welcome to the ISAC UAV Dataset from Technische Universität
-Ilmenau. This page will help you get started with the dataset and
-provide you with some useful information.
-
-Before downloading the dataset, we want to familiarize you with the
-structure of the dataset and the provided files.
-
-{: .important} Please read this section carefully to avoid wasting your
-costly time in premature self-exploratory efforts.
-
 Dataset organization
 --------------------
 

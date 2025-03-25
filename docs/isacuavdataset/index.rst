@@ -1,7 +1,8 @@
-isacuavdataset
-==============
+ISAC UAV Dataset
+================
 
 .. toctree::
+   :hidden:
    :maxdepth: 1
 
    1-gettingstarted

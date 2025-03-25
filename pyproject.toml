@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "measems"
+version = "2025.3.25"
+readme = "README.md"
+license = "CC-BY-NC-ND-4.0"
+license-files = ["LICEN[CS]E*"]
+
+[project.optional-dependencies]
+docs = ["sphinx", "sphinx_rtd_theme"]
+
+[project.urls]
+Homepage = "https://ems-tu-ilmenau.github.io/measems-doc/"
+Repository = "https://github.com/EMS-TU-Ilmenau/measems-doc"
