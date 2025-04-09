@@ -25,6 +25,16 @@ To use this dataset and/or scripts or any modified part of them, cite:
      doi={10.23919/EuCAP57121.2023.10133118}
    }
 
+The paper is available on
+`IEEEXplore <https://ieeexplore.ieee.org/document/10133118>`__ and
+`Arxiv <https://arxiv.org/abs/2210.07168>`__. Please make sure to cite
+the IEEEXplore paper if you use the dataset for your publication.
+
+|DOI|
+
+.. |DOI| image:: https://zenodo.org/badge/686893926.svg
+   :target: https://zenodo.org/badge/latestdoi/686893926
+
 References
 ----------
 
